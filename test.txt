@@ -1,3 +1,7 @@
 abc
 123
+<<<<<<< Updated upstream
 test
+=======
+A2B
+>>>>>>> Stashed changes
